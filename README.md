@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  :white_check_mark: <a href="" target="_blank">Veja a página</a>
+  <!--:white_check_mark: <a href="" target="_blank">Veja a página</a>-->
     &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
   :white_check_mark: <a href="https://www.alura.com.br/curso-online-javascript-web-validacao-formularios-html5" target="_blank">Conheça o curso</a>
 </p>
